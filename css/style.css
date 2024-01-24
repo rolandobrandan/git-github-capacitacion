@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    font-family: "Arial";
+    background-color: coral;
+    color: blue;
+    margin: 30px 10px ;
+}
+.post {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    border: solid 1px #000;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: 600;
+    padding: 30px;
+}
+.cabecera {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffff;
+    border: solid 1px #000;
+    width: 50%;
+    border-radius: 10px;
+}
